@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e--m6WMfpkY?si=yvV2lwxfpM5GxAQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> 
-</iframe>
 
 
-[![click this](https://github.com/nickbar2003/nickbar2003/blob/main/Mark%20I.png)](https://www.youtube.com/watch?v=e--m6WMfpkY)
+[![Click Here to view a demo of my MARK I embedded morse code telegram project](https://github.com/nickbar2003/nickbar2003/blob/main/Mark%20I.png)](https://www.youtube.com/watch?v=e--m6WMfpkY)
 
 
 <!--
