@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 -->
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=e--m6WMfpkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=e--m6WMfpkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 
-<video src="C:\Users\NIck\Videos\Microcontroller Telegram Mark I Demo.mp4" width="320" height="240" controls></video>
