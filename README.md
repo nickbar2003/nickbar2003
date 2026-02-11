@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Nick👋
 
 
-- Click Here to view a demo of my MARK I embedded morse code telegram project!
+Click Here to view a demo of my MARK I embedded morse code telegram project!
 [![Click Here to view a demo of my MARK I embedded morse code telegram project](https://github.com/nickbar2003/nickbar2003/blob/main/Mark%20I.png)](https://www.youtube.com/watch?v=e--m6WMfpkY)
 
 
