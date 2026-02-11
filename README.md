@@ -6,6 +6,7 @@
   <img src="https://img.youtube.com/vi/e--m6WMfpkY/0.jpg" width="300">
 </a>
 
+- You can view the repo for this project in my pinned repos 
 ---
 
 
