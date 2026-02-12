@@ -1,5 +1,6 @@
 ## Hi there, I'm Nick👋
 
+I am a recent Gonzaga Comp Sci Alumn. I am interested in C/C++ and low-level programming. I have been exploring AVR C programming and Microcontroller boards!
 
 
 #### To view a demo of my *MARK II embedded Morse Code Telegram Project*, click the thumbnail!
