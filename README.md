@@ -23,4 +23,7 @@ I am a recent Gonzaga Comp Sci Alumn. I am interested in C/C++ and low-level pro
 
 
 
+#### Diagram for the Morse Code Data Buffer (MCDB), designed and used by myself in my telegram project.
 
+<img width="1230" height="711" alt="image" src="https://github.com/user-attachments/assets/d05bf0b3-b5b3-4677-be93-ab7aa6321af0" />
+<img width="1201" height="653" alt="image" src="https://github.com/user-attachments/assets/2a15c332-9a6b-4856-9b76-287c3e61623f" />
